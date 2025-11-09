@@ -92,8 +92,8 @@ Smoothjazz.com.pl        Bank 16 Stacja 80  http://bcast.vigormultimedia.com:888
 
 
 
-Czech Radio CRo D-dur                             http://amp.cesnet.cz:8000/cro-d-dur.flac
-Czech Radio CRo Jazz                              http://amp.cesnet.cz:8000/cro-jazz.flac
-Czech Radio CRo RadioWave                         http://amp.cesnet.cz:8000/cro-radio-wave.flac
-Czech Radio CRo Vltava                            http://amp.cesnet.cz:8000/cro3.flac
-RadioSEGA                                         https://icecast.radiosega.net/rs-flac.ogg
+81.Czech Radio CRo D-dur                             http://amp.cesnet.cz:8000/cro-d-dur.flac
+82.Czech Radio CRo Jazz                              http://amp.cesnet.cz:8000/cro-jazz.flac
+83.Czech Radio CRo RadioWave                         http://amp.cesnet.cz:8000/cro-radio-wave.flac
+84.Czech Radio CRo Vltava                            http://amp.cesnet.cz:8000/cro3.flac
+85.RadioSEGA                                         https://icecast.radiosega.net/rs-flac.ogg

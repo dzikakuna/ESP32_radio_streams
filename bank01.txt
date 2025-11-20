@@ -2,7 +2,7 @@ Antyradio                 Bank 1 Stacja 1   https://an01.cdn.eurozet.pl/ant-kat.
 Radio Zlote Przeboje      Bank 1 Stacja 2   https://radiostream.pl/tuba8910-1.mp3
 RMF FM                    Bank 1 Stacja 3   http://195.150.20.7/rmf_fm
 Radio Italo 4 You         Bank 1 Stacja 4   http://s0.radiohost.pl:8018/stream
-Radio ZET                 Bank 1 Stacja 5   http://www.emsoft.ct8.pl/inne/zet.m3u
+Radio ZET                 Bank 1 Stacja 5   https://zt04.cdn.eurozet.pl/ZETPAR.mp3?redirected=04
 Smoothjazz.com.pl         Bank 1 Stacja 6   https://bcast.vigormultimedia.com:48888/sjcompl320mp3
 Radio 90                  Bank 1 Stacja 7   http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3
 Radio Plus                Bank 1 Stacja 8   https://ic2.smcdn.pl/4270-1.mp3
@@ -92,7 +92,7 @@ Radio Paradise            Bank 1 Stacja 91  http://stream-dc1.radioparadise.com/
 Radio THE RAVE ZONE 24h   Bank 1 Stacja 92  http://stream-vie.radio-zone.ru:8000/rz_vie_ogg_256
 Dance Wave                Bank 1 Stacja 93  http://stream.dancewave.online:8080/dance.ogg
 Dance Wave Retro          Bank 1 Stacja 94  http://stream.dancewave.online:8080/retrodance.ogg
-Smoothjazz.com.pl (FLAC)  Bank 1 Stacja 95  http://bcast.vigormultimedia.com:8888/sjcomplflac
+Smoothjazz.com.pl FLAC    Bank 1 Stacja 95  http://bcast.vigormultimedia.com:8888/sjcomplflac
 Nature Radio Sleep        Bank 1 Stacja 96  https://stream.zeno.fm/kju0gtjeei3uv
 Nature Radio RAIN         Bank 1 Stacja 97  https://maggie.torontocast.com:8108/;
 Nature white noise        Bank 1 Stacja 98  https://stream.zeno.fm/vg54x7r1exhvv

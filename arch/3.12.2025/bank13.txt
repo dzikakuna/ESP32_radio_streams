@@ -57,38 +57,38 @@ Radio Hot Dance          Bank 13 Stacja 56  http://listen.hotget.net:810
 Radio Liberty Dance      Bank 13 Stacja 57  http://asculta.radioliberty.ro:1989/stream/1/
 RADiO LuDNiCA Original   Bank 13 Stacja 58  http://192.111.140.6:8222/stream/1/
 Radio Mega-HiT Romania   Bank 13 Stacja 59  http://radiomegahit.zapto.org:8080/stream/1/
-
-Radio Orbital            Bank 13 Stacja 60  http://195.23.85.126:8401/stream/1/
-Radio Paradise           Bank 13 Stacja 61  https://stream.radioparadise.com/aac-320
-Radio Paradise Mellow    Bank 13 Stacja 62  https://stream.radioparadise.com/mellow-320
-
-Radio Pro-B Romania      Bank 13 Stacja 63  http://93.114.82.111:8888/stream/1/
-Radio Regenbogen         Bank 13 Stacja 64  http://streams.regenbogen.de/rr-eurodance-128-mp3
-RADIO ROMANCE 21         Bank 13 Stacja 65  http://live.radioromance21.ro:9950/
-Radio Romanian Dance     Bank 13 Stacja 66  http://asculta.radioromanian.net:8100/stream/1/
-Radio Studio Piu         Bank 13 Stacja 67  http://www.studiopiu.net:8010
-Radio VivaFm             Bank 13 Stacja 68  http://stream2.vivafm.it:8002/stream/1/
-RadioMonster Dance       Bank 13 Stacja 69  http://dance.radiomonster.fm/320.mp3
-Radioparty.pl - Dance    Bank 13 Stacja 70  http://s2.radioparty.pl:8000/stream64aac
-Raute Musik 90s          Bank 13 Stacja 71  http://90s-high.rautemusik.fm/
-Raute Musik Party        Bank 13 Stacja 72  http://partyhits-high.rautemusik.fm/
-Raute Musik Top40        Bank 13 Stacja 73  http://top40-high.rautemusik.fm/
-Scooterfanradio          Bank 13 Stacja 74  http://scooterfanradio.stream.laut.fm/scooterfanradio
-SECTOR Geny              Bank 13 Stacja 75  http://89.223.45.5:8000/geny-mp3
-SECTOR Next              Bank 13 Stacja 76  http://89.223.45.5:8000/next-mp3
-SECTOR Progressive       Bank 13 Stacja 77  http://89.223.45.5:8000/progressive-mp3
-SECTOR Space             Bank 13 Stacja 78  http://89.223.45.5:8000/space-mp3
-SKIF                     Bank 13 Stacja 79  http://178.172.150.248:2530/stream/1/
-Skyradiofm 90s           Bank 13 Stacja 80  http://skyradiofm-90s.stream.laut.fm/skyradiofm-90s
-Super Dance Floorida     Bank 13 Stacja 81  http://5.135.154.66:33604/;
-TechnoBase.FM 24h Techno Bank 13 Stacja 82  http://aacl.stream.tb-group.fm:80/tb-low.aac
-The Mix Radio 80s        Bank 13 Stacja 83  http://51.255.127.128:8016/stream
-The Zone - Dublin        Bank 13 Stacja 84  http://uk1.internet-radio.com:8355/
-TL Eurodance             Bank 13 Stacja 85  https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
-VirtualDJ Radio ClubZone Bank 13 Stacja 86  http://52.0.120.216:8000/stream/1/
-Warnowfm 90er            Bank 13 Stacja 87  http://warnowfm-90er.stream.laut.fm/warnowfm-90er
-wunschradio.fm           Bank 13 Stacja 88  http://radiostreamserver.de:80/wunschradio.mp3
-wunschradio.fm 90er      Bank 13 Stacja 89  http://server15.radiostreamserver.de:80/wunschradio-90er.mp3
+Radio Metal Live         Bank 13 Stacja 60  http://51.255.8.139:8738/stream  
+Radio Orbital            Bank 13 Stacja 61  http://195.23.85.126:8401/stream/1/
+Radio Paradise Main      Bank 13 Stacja 62  https://stream.radioparadise.com/aac-320
+Radio Paradise Mellow    Bank 13 Stacja 63  https://stream.radioparadise.com/mellow-320
+Radio Paradise Rock      Bank 13 Stacja 64  https://stream.radioparadise.com/rock-320
+Radio Pro-B Romania      Bank 13 Stacja 65  http://93.114.82.111:8888/stream/1/
+Radio Regenbogen         Bank 13 Stacja 66  http://streams.regenbogen.de/rr-eurodance-128-mp3
+RADIO ROMANCE 21         Bank 13 Stacja 67  http://live.radioromance21.ro:9950/
+Radio Romanian Dance     Bank 13 Stacja 68  http://asculta.radioromanian.net:8100/stream/1/
+Radio Studio Piu         Bank 13 Stacja 69  http://www.studiopiu.net:8010
+Radio VivaFm             Bank 13 Stacja 70  http://stream2.vivafm.it:8002/stream/1/
+RadioMonster Dance       Bank 13 Stacja 71  http://dance.radiomonster.fm/320.mp3
+Radioparty.pl - Dance    Bank 13 Stacja 72  http://s2.radioparty.pl:8000/stream64aac
+Raute Musik 90s          Bank 13 Stacja 73  http://90s-high.rautemusik.fm/
+Raute Musik Party        Bank 13 Stacja 74  http://partyhits-high.rautemusik.fm/
+Raute Musik Top40        Bank 13 Stacja 75  http://top40-high.rautemusik.fm/
+Scooterfanradio          Bank 13 Stacja 76  http://scooterfanradio.stream.laut.fm/scooterfanradio
+SECTOR Geny              Bank 13 Stacja 77  http://89.223.45.5:8000/geny-mp3
+SECTOR Next              Bank 13 Stacja 78  http://89.223.45.5:8000/next-mp3
+SECTOR Progressive       Bank 13 Stacja 79  http://89.223.45.5:8000/progressive-mp3
+SECTOR Space             Bank 13 Stacja 80  http://89.223.45.5:8000/space-mp3
+SKIF                     Bank 13 Stacja 81  http://178.172.150.248:2530/stream/1/
+Skyradiofm 90s           Bank 13 Stacja 82  http://skyradiofm-90s.stream.laut.fm/skyradiofm-90s
+Super Dance Floorida     Bank 13 Stacja 83  http://5.135.154.66:33604/;
+TechnoBase.FM 24h Techno Bank 13 Stacja 84  http://aacl.stream.tb-group.fm:80/tb-low.aac
+The Mix Radio 80s        Bank 13 Stacja 85  http://51.255.127.128:8016/stream
+The Zone - Dublin        Bank 13 Stacja 86  http://uk1.internet-radio.com:8355/
+TL Eurodance             Bank 13 Stacja 87  https://beurfm.ice.infomaniak.ch/beurfm-high.mp3
+VirtualDJ Radio ClubZone Bank 13 Stacja 88  http://52.0.120.216:8000/stream/1/
+Warnowfm 90er            Bank 13 Stacja 89  http://warnowfm-90er.stream.laut.fm/warnowfm-90er
+wunschradio.fm           Bank 13 Stacja 90  http://server15.radiostreamserver.de:80/wunschradio-90er.mp3
+wunschradio.fm 90er      Bank 13 Stacja 91  http://radiostreamserver.de:80/wunschradio.mp3
 
 
 

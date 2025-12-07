@@ -50,18 +50,18 @@ Radio Krakow              Bank 3 Stacja 49  http://stream4.nadaje.com:9680/radio
 Radio Krakow Nowy Sacz    Bank 3 Stacja 50  http://stream3.nadaje.com:9120/radiokrakow  
 Radio Krakow Sportowy     Bank 3 Stacja 51  http://stream3.nadaje.com:9128/radiokrakow  
 Radio Krakow Tarnow       Bank 3 Stacja 52  http://stream3.nadaje.com:9118/radiokrakow  
-Radio Kujawy              Bank 3 Stacja 53  http://radio.kujawy.info:9940/1  
-Radio Lodz                Bank 3 Stacja 54  http://217.113.224.171/RadioLodz-1.mp3
-Radio Lodz                Bank 3 Stacja 55  http://217.113.224.171:80/RadioLodz-1-HQ.aac  
-Radio Lodz Extra          Bank 3 Stacja 56  http://217.113.224.171:80/RadioLodz-2-HQ.aac
-Radio Lodz Nad Warta      Bank 3 Stacja 57  http://217.113.224.171:80/RadioLodz-NW-HQ.aac  
-Radio Lublin              Bank 3 Stacja 58  http://www.emsoft.ct8.pl/inne/rlublin.m3u
-Radio Lublin              Bank 3 Stacja 59  https://streaming.radio.lublin.pl:8843/128k  
-Radio Malbork             Bank 3 Stacja 60  http://stream3.nadaje.com:9022/
-Radio Naklo               Bank 3 Stacja 61  http://145.239.92.77:80/;
-Radio OFF Krakow          Bank 3 Stacja 62  http://stream2.nadaje.com:13332/offradiokrakow  
-Radio Olsztyn             Bank 3 Stacja 63  http://olsztyn.radio.pionier.net.pl:7055/;
-Radio Olsztyn             Bank 3 Stacja 64  http://213.73.25.178:7055/listen.pls
+Radio Kwidzyn             Bank 3 Stacja 53  https://s3.slotex.pl:7308/stream/1/?sid=1
+Radio Kujawy              Bank 3 Stacja 54  http://radio.kujawy.info:9940/1  
+Radio Lodz                Bank 3 Stacja 55  http://217.113.224.171/RadioLodz-1.mp3
+Radio Lodz                Bank 3 Stacja 56  http://217.113.224.171:80/RadioLodz-1-HQ.aac  
+Radio Lodz Extra          Bank 3 Stacja 57  http://217.113.224.171:80/RadioLodz-2-HQ.aac
+Radio Lodz Nad Warta      Bank 3 Stacja 58  http://217.113.224.171:80/RadioLodz-NW-HQ.aac  
+Radio Lublin              Bank 3 Stacja 59  http://www.emsoft.ct8.pl/inne/rlublin.m3u
+Radio Lublin              Bank 3 Stacja 60  https://streaming.radio.lublin.pl:8843/128k  
+Radio Malbork             Bank 3 Stacja 61  http://stream3.nadaje.com:9022/
+Radio Naklo               Bank 3 Stacja 62  http://145.239.92.77:80/;
+Radio OFF Krakow          Bank 3 Stacja 63  http://stream2.nadaje.com:13332/offradiokrakow  
+Radio Olsztyn             Bank 3 Stacja 64  http://olsztyn.radio.pionier.net.pl:7055/;
 Radio Opole               Bank 3 Stacja 65  http://dab.radio.opole.pl:8070/1.m3u
 Radio Opole 2 Kultura     Bank 3 Stacja 66  http://193.47.151.4:9000/ro2mp3  
 Radio Opole 3 Sport       Bank 3 Stacja 67  http://193.47.151.4:9000/ro3mp3  

@@ -1,50 +1,50 @@
-RMF Swieta                                        http://195.150.20.7/rmf_swieta
-RMF - Top 30 Swieta                               https://rs6-krk2.rmfstream.pl/rmf_top_30_swieta
-Soma.FM Christmas Lounge                          https://ice5.somafm.com/christmas-256-mp3
-Radio Santa Claus                                 https://streaming.radiostreamlive.com/radiosantaclaus_devices?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
-Radio North Pole                                  https://streaming.radiostreamlive.com/radionorthpole_devices?token=%3C?%20echo%20rand%20(1,200000);%20?%3E
-ZET Na swiêta                                     https://zt.cdn.eurozet.pl/ZETSWI.mp3
-Christmas Radio INT                               https://edg1-iad-gold.streamguys1.com/christmasradio?platform=website
-Christmas Evergreen                               https://emg.streamguys1.com/evergreen-website
-181.FM Christmas Kountry                          http://listen.livestreamingservice.com/181-xkkountry_128k.mp3
-181.FM Christmas Classics                         http://listen.livestreamingservice.com/181-xtraditional_128k.mp3
-181.FM Christmas Oldies                           http://listen.livestreamingservice.com/181-xoldies_128k.mp3
-181.FM Christmas Standard                         http://listen.livestreamingservice.com/181-xstandards_128k.mp3
-181.FM Christmas Country                          http://listen.livestreamingservice.com/181-xcountry_128k.mp3
-181.FM Christmas Power                            http://listen.livestreamingservice.com/181-xpower_128k.mp3
-181.FM Christmas Highway                          http://listen.livestreamingservice.com/181-xhighway_128k.mp3
-181.FM Christmas Soundtra                         http://listen.livestreamingservice.com/181-xsoundtrax_128k.mp3
-181.FM Christmas R&B                              http://listen.livestreamingservice.com/181-xtrue_128k.mp3
-181.FM Christmas Rock                             http://listen.livestreamingservice.com/181-xrock_128k.mp3
-181.FM Christmas Mix                              http://listen.livestreamingservice.com/181-xmix_128k.mp3
-181.FM Christmas Fun                              http://listen.livestreamingservice.com/181-xfun_128k.mp3
-181.FM Christmas Kids                             http://listen.livestreamingservice.com/181-xkids_128k.mp3
-181.FM Christmas                                  http://listen.livestreamingservice.com/181-xblender_128k.mp3
-181.FM Christmas Spirit                           http://listen.livestreamingservice.com/181-xspirit_128k.mp3
-181.FM Christmas SmoothJa                         http://listen.livestreamingservice.com/181-xsmooth_128k.mp3
-181.FM Christmas Gospel                           http://listen.livestreamingservice.com/181-xgospel_128k.mp3
-181.FM Christmas Swing                            http://listen.livestreamingservice.com/181-xswing_128k.mp3
-Christmas 1                                       http://89.39.189.44:8000/;
-Christmas 2                                       http://us9.maindigitalstream.com:7459/;
-Christmas FM                                      https://christmasfm.cdnstream1.com/2547_128.mp3
-Christmas 365                                     https://us3.streamingpulse.com/ssl/7038
-Christmas FM                                      http://janus.cdnstream.com:5024/live
-Christmas FM - Classical                          https://christmasfm.cdnstream1.com/2549_128.mp3
-Christmas Hits NL                                 https://stream06.dotpoint.nl:8006/stream
-Christmas Instrumentals                           http://proxima.shoutca.st:8071/;
-Christmas Lounge Radio                            https://ice3.somafm.com/christmas-128-mp3
-Christmas Radio Live                              http://s7.viastreaming.net:7000/;
-Christmas Radio Live                              http://sbouch00.radioca.st:8232/;
-Christmas Songs Radio                             https://cheetah.streemlion.com:1050/stream
-Xmas                                              https://live.radiostudio.be/xmasfm
-Xmasradio FM                                      https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
-Antyradio X-mass                                  https://an.cdn.eurozet.pl/ANTXMA.mp3
-Fility Merry Christmas Ra                         https://streaming.silvacast.com/XMAS.mp3
+AIDA Radio               Bank 15 Stacja 1   https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
+BluesWave Radio          Bank 15 Stacja 2   http://blueswave.radio:8050/FlacBlues
+Classics Radio           Bank 15 Stacja 3   http://vriezenet.nl:11051/flac
+Free Music Radio         Bank 15 Stacja 4   http://stream.freemusicradio.nl:8100/stream.oga
+LapFox Radio             Bank 15 Stacja 5   https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+MaXXima                  Bank 15 Stacja 6   http://maxxima.mine.nu:8000/maxx.ogg
+Pure Lounge Radio        Bank 15 Stacja 7   https://mscp4.live-streams.nl:8142/lounge.ogg
+Radio Bias               Bank 15 Stacja 8   https://admin.biasradio.com/radio/8000/flac
+Radio Calico             Bank 15 Stacja 9   http://radio3.radio-calico.com:8080/calico
+Radio Calico (Roon streamBank 15 Stacja 10  http://roon.radio-calico.com:8000/roon
+Radio Radar - House      Bank 15 Stacja 11  https://radioradar.online/listen/r_house/r_house.ogg
+Radio X                  Bank 15 Stacja 12  https://mp3.radiox.ch/standard.ogg
+Rlocale Radio            Bank 15 Stacja 13  https://rlocale.org/listen/rlocale/rlocale-flac.ogg
+shadowfr69 Radio         Bank 15 Stacja 14  https://radio.shadowfr69.eu/lossless
+Sveriges Radio           Bank 15 Stacja 15  https://live1.sr.se/p2-flac
+TNM Radio                Bank 15 Stacja 16  https://stream.tnm-radio.eu/ultra
+Radio Haugaland          Bank 15 Stacja 17  http://radioip.no:443/flac
 
 
-
-
-
+Bailrigg 95.3FM          Bank 15 Stacja 18  https://bfm-live.lancs.ac.uk/listen/bfm/flac
+ForEver La Radio - ArcachBank 15 Stacja 19  http://stream.sweetfm.fr:8000/flac-forever-arc
+ForEver La Radio - BordeaBank 15 Stacja 20  http://stream.sweetfm.fr:8000/flac-forever-bdx
+Haarlem 105              Bank 15 Stacja 21  http://studio.haarlem105.nl:8000/haarlem105DAB.flac?_res_tag_=audio
+Hi On Line Radio         Bank 15 Stacja 22  http://mscp2.live-streams.nl:8100/flac.flac
+SEKO Radio               Bank 15 Stacja 23  https://isekoi-radio.com/listen/isekoi/radio.flac
+SEKO Ambient             Bank 15 Stacja 24  https://isekoi-radio.com/listen/ambient/ambientradio.flac
+SEKO Chill Zone          Bank 15 Stacja 25  https://isekoi-radio.com/listen/chill/radio.flac
+Kiss Collector           Bank 15 Stacja 26  http://live7.avf.ch:8000/kisscollector_main
+Lux Radio                Bank 15 Stacja 27  https://live7.avf.ch/lux_main
+OpenSky Radio            Bank 15 Stacja 28  https://audio.opensky.radio:8082/flac?_res_tag_=audio
+PureClassix Radio        Bank 15 Stacja 29  http://mscp4.live-streams.nl:8140/flac.ogg
+Pure Radio Holland - The Bank 15 Stacja 30  https://streamserver.pure-isp.eu/radio/8000/flac
+Pure Radio Holland - TranBank 15 Stacja 31  https://streamserver.pure-isp.eu/radio/8020/flac
+Pure Radio Holland - HardBank 15 Stacja 32  https://streamserver.pure-isp.eu/radio/8010/flac
+Pure Radio Holland - DownBank 15 Stacja 33  https://streamserver.pure-isp.eu/radio/8040/flac
+Pure Radio Channel - LiveBank 15 Stacja 34  https://streamserver.pure-isp.eu/radio/8060/flac
+Pure Radio Channel - DancBank 15 Stacja 35  https://streamserver.pure-isp.eu/radio/8030/flac
+Pure Radio Channel - DJ RBank 15 Stacja 36  https://streamserver.pure-isp.eu/radio/8050/flac
+Pure Radio Channel - VariBank 15 Stacja 37  https://streamserver.pure-isp.eu/radio/8070/flac
+Pure Radio Channel - Rap Bank 15 Stacja 38  https://streamserver.pure-isp.eu/radio/8100/flac
+Radio Audiomastering     Bank 15 Stacja 39  https://transliacija.audiomastering.lt/pure
+Radio BluesFlac          Bank 15 Stacja 40  https://streams.radiomast.io/radioblues-flac
+Radio Campus Gremoble 90.Bank 15 Stacja 41  https://live.campusgrenoble.org/dab
+Radio Juventus           Bank 15 Stacja 42  http://s2.audiostream.hu:8090/juventus_FLAC
+Radio Mast               Bank 15 Stacja 43  https://streams.radiomast.io/ref-lossless-ogg-flac-stereo
+Radio Tornagaleones      Bank 15 Stacja 44  http://tornagaleones.ddns.net:9000/Flac
+RIO Radio Internacional OBank 15 Stacja 45  http://c30.radioboss.fm:8510/autodj
 
 
 
